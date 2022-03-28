@@ -102,5 +102,16 @@ h1 {
     text-align: center;
 }
 
+.section-3 {
+    background-color: #e5e7eb;
+    display: flex;
+    flex-direction: column;
+    padding: 80px;
+    align-items: center;
+}
 
+.quote {
+    font-size: 36px;
+    color: #1f2937;
+}
 
