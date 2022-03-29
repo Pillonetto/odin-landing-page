@@ -94,6 +94,8 @@ h1 {
     flex-flow: column wrap;
     align-items: center;
     gap: 8px;
+    height: 180px;
+    width: 280px;
 }
 
 .gray {
@@ -113,6 +115,10 @@ h1 {
 .quote {
     font-size: 36px;
     color: #1f2937;
+}
+
+.text-box-2 {
+    width: 90vh;
 }
 
 .section-4 {
